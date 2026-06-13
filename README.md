@@ -6,10 +6,11 @@ A spiritual successor to [VerticalFox](https://github.com/christorange/VerticalF
 
 > Tested on macOS + Firefox 151 + Sidebery 5.5.2. The Windows and Linux installers are included but community-tested.
 
-## Screenshots
+## Demo
 
-_Add yours to `assets/` (a collapsed favicon rail and the expanded panel look great)._
-<!-- ![Collapsed rail](assets/collapsed.png)  ![Expanded panel](assets/expanded.png) -->
+![OnyxFox: auto-hiding AMOLED vertical tabs in action](assets/onyxfox-demo.gif)
+
+*Move the mouse to the left edge and the favicon rail slides out to full tab titles; move away and it collapses back to icons. Pure `#000000` throughout, native tab bar hidden.*
 
 ## What you get
 
