@@ -1,0 +1,12 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*~
+.idea/
+.vscode/
+
+# Installer backups (in case anyone runs it from inside the repo)
+*.onyxfox.bak
